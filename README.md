@@ -33,7 +33,7 @@ Disclaimer
 ---
 
 It's obviously very weak encryption.  I wrote it to test out these
-simple cipher on an assignment.
+simple ciphers on an assignment.
 
 License
 ---
